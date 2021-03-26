@@ -1,0 +1,11 @@
+module.exports = {
+  
+  "TOKEN": "YOUR TOKEN BOT",
+  "PREFIX": "YOUR BOT PREFIX",
+  
+  "IGNOREDROLES": [
+    "815284924663332916",
+    "815284913950818334"
+  ],
+  
+}
